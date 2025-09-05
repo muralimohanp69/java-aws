@@ -1,0 +1,5 @@
+com\s3\examples\controller\BucketController.class
+com\s3\examples\service\FileStore.class
+com\s3\examples\S3ExamplesApplication.class
+com\s3\examples\configuration\AWSS3Config.class
+com\s3\examples\service\BucketService.class
